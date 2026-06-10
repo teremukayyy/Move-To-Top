@@ -1,0 +1,11 @@
+{
+  "name": "Move To Top",
+  "description": "Add button to move song on top",
+  "preview": "https://imgur.com/a/ftQlo9u",
+  "main": "moveToTop.js", 
+  "readme": "README.md",
+  "authors": [
+    { "name": "teremukay", "url": "https://open.spotify.com/user/314fhgypp43cz6jb53dj2sqk76pa?si=1560857a013c4402" }
+  ],
+  "tags": ["Move", "MoveToTop"]
+}
